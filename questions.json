@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is my name?",
+        "choices": ["Brandon", "Janitor", "Stephen"],
+        "correct": "Brandon" 
+    },
+    {
+        "question": "What is my favourite food?",
+        "choices": ["Pizza", "Burger", "Kebab", "Curry"],
+        "correct": "Burger" 
+    },
+    {
+        "question": "What did I want to be as a child?",
+        "choices": ["Astronaut", "Pilot", "Footballer", "Software Engineer"],
+        "correct": "Footballer"
+    },
+    {
+        "question": "What is my favourite movie?",
+        "choices": ["Inception", "The Dark Knight", "Reservoir Dogs", "Avengers: Infinity War"],
+        "correct": "Inception" 
+    },
+    {
+        "question": "What is my mam's name?",
+        "choices": ["Sarah", "Linzi", "Cheryl"],
+        "correct": "Sarah" 
+    },
+    {
+        "question": "True or False? I love boots?",
+        "choices": ["True", "False"],
+        "correct": "True" 
+    },
+    {
+        "question": "What is my favourite memory of us?",
+        "choices": ["Laughing in bed, still drunk from the night before, watching bloopers of the office", "Our first date", "Scouting for Girls 2026", "Our trip to the farne islands 2025"],
+        "correct": "Laughing in bed, still drunk from the night before, watching bloopers of the office"
+    },
+    {
+        "question": "How much did I spend on our first date?",
+        "choices": ["£50", "£100", "£200", "It doesn't matter, you were worth every penny"],
+        "correct": "It doesn't matter, you were worth every penny" 
+    },
+    {
+        "question": "What am I most scared of?",
+        "choices": ["Spiders", "The sea", "Heights", "Flying"],
+        "correct": "Heights" 
+    },
+    {
+        "question": "What is my guilty pleasure song?",
+        "choices": ["Number 1, Tinchy Stryder", "Thunderbirds Are Go, Busted", "Beat Again, JLS", "Teenage Dirtbag, Wheatus"],
+        "correct": "Thunderbirds Are Go, Busted"
+    }
+]
