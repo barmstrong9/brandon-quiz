@@ -48,5 +48,70 @@
         "question": "What is my guilty pleasure song?",
         "choices": ["Number 1, Tinchy Stryder", "Thunderbirds Are Go, Busted", "Beat Again, JLS", "Teenage Dirtbag, Wheatus"],
         "correct": "Thunderbirds Are Go, Busted"
+    },
+    {
+        "question": "What is my favourite fizzy drink?",
+        "choices": ["Dr. Pepper", "Pepsi Max", "Fanta Fruit Twist", "Dandelion & Burdock"],
+        "correct": "Dr. Pepper"
+    },
+    {
+        "question": "What is favourite lager?",
+        "choices": ["Moretti", "Staropramen", "Asahi", "Madri"],
+        "correct": "Staropramen"
+    },
+    {
+        "question": "What was the name of my first dog?",
+        "choices": ["Moss", "Skipper", "Milo", "Trek"],
+        "correct": "Moss"
+    },
+    {
+        "question": "What is my coffee order?",
+        "choices": ["Flat White", "Latte", "Mocha", "Cappuccino"],
+        "correct": "Flat White"
+    },
+    {
+        "question": "How do I like my steak cooked?",
+        "choices": ["Rare", "Medium-Rare", "Medium", "Medium-Well"],
+        "correct": "Medium-Rare"
+    },
+    {
+        "question": "What is my favourite takeaway?",
+        "choices": ["Pizza", "Chinese", "Kebab", "Indian"],
+        "correct": "Indian"
+    },
+    {
+        "question": "Who is my favourite superhero?",
+        "choices": ["Captain America", "Batman", "Spider-Man", "The Flash"],
+        "correct": "The Flash"
+    },
+    {
+        "question": "What was my first impression of you? That you were...",
+        "choices": ["Magical", "A lunatic", "Beautiful", "Silly"],
+        "correct": "Magical"
+    },
+    {
+        "question": "Am I right-handed or left-handed?",
+        "choices": ["Right", "Left"],
+        "correct": "Right"
+    },
+    {
+        "question": "Am I right-footed or left-footed?",
+        "choices": ["I've always been right footed", "I've always been left footed", "I was right footed as a child, now I'm left", "I was left footed as a child, now I'm right"],
+        "correct": "I was left footed as a child, now I'm right"
+    },
+    {
+        "question": "What is my shoe size?",
+        "choices": ["10", "10.5", "11", "11.5"],
+        "correct": "11"
+    },
+    {
+        "question": "Do I want a city life, or a country life?",
+        "choices": ["City", "Country"],
+        "correct": "Country"
+    },
+    {
+        "question": "What is my dream car?",
+        "choices": ["Audi R8", "Mclaren P1", "Aston Martin DB9", "Lamborghini Huracan"],
+        "correct": "Audi R8"
     }
 ]
